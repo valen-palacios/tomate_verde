@@ -1,0 +1,36 @@
+#titulo-1 {
+    color: rgb(229, 255, 0);
+}
+
+#titulo-2 {
+    color: rgb(122, 255, 95);
+}
+
+#titulo-3 {
+    color: #f049ff
+}
+
+#titulo-4 {
+    color: rgb(80, 255, 246);
+}
+
+#titulo-5 {
+    color: rgb(144, 54, 218);
+}
+
+#titulo-6 {
+    color: rgb(224, 17, 86);
+}
+
+.parrafos-con-italic{
+    font-style: italic;
+}
+body{
+    background: #000000;
+}
+h2{
+color: #FFFFFF;
+}
+p{
+    color: #FFFFFF ;
+}

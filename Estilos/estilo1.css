@@ -1,0 +1,47 @@
+body {
+    color: pink;
+}
+#titulo-principal {
+    color: rgb(70, 196, 32);
+}
+h1 {
+    color: rgb(255, 2, 2);
+}
+
+div {
+    border: 3px solid #00ff00;
+}
+
+.titulo-principal {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #00ff00;
+}
+h1{
+    font-weight: bold;
+}
+a:visited{
+    text-decoration: #00ff00;
+}
+body{
+    background: #000000;
+}
+
+#titulo-segundario{
+    list-style-type: none;
+    color: #FFFFFF;
+}
+
+#titulo-tercero{
+    list-style-type: none;
+    color: #FFFFFF;
+}
+
+ #titulo-cuarto{
+    list-style-type: none;
+    color: #FFFFFF;
+ }
+ 
+ #titulos li a:hover{
+     font-weight: bold;
+ }
